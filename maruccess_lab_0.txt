@@ -10,3 +10,5 @@
             <h1>Языки программирования</h1>
             <figure>
                 <img src="https://www.python.org/static/img/python-logo.png" alt="Изображение не найдено."> 
+<!-- Добавляем атрибут alt, для корректного отображения в случае ненайденного изображения-->
+                <figcaption>Логотип Python</figcaption>
