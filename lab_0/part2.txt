@@ -6,3 +6,18 @@
 <head>
     <title>maruccess</title>
 </head>
+<body>
+    <h1>Выберите погоду:</h1>
+    <form>
+        <fieldset>
+            <legend>Какое Ваше любимое состояние атмосферы:</legend>
+            <label><input type="checkbox" name="weather" value="sunny"> солнечно </label><br>
+            <label><input type="checkbox" name="weather" value="cloudy"> пасмурно </label><br>
+            <label><input type="checkbox" name="weather" value="high wind"> сильный ветер </label><br>
+	    <label><input type="checkbox" name="weather" value="foggy"> туманно </label><br>
+	    <label><input type="checkbox" name="weather" value="rainy"> дождливо </label><br>
+	    <label><input type="checkbox" name="weather" value="snow"> снег </label><br>
+        </fieldset>
+    </form>
+</body>
+</html>
