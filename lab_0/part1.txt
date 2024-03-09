@@ -25,3 +25,5 @@
             <a href="#">Раздел 2</a><br>
         </nav>
         <footer>Успехов в освоении</footer>
+    </body>
+</html>
